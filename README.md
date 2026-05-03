@@ -37,7 +37,7 @@ GR-NBody/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/GR-NBody.git](https://github.com/yourusername/GR-NBody.git)
+   git clone [https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang.git](https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang.git)
    cd GR-NBody
    ```
 
