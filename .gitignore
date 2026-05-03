@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Output data and plots
+outputs/
+*.csv
+*.png
+*.hdf5
+
+# Virtual environments
+venv/
+env/
