@@ -37,7 +37,7 @@ GR-NBody/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang.git](https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang.git)
+   git clone https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang.git
    cd GR-NBody
    ```
 
@@ -78,4 +78,4 @@ python tests.py
 
 ## Documentation
 
-For a comprehensive breakdown of the physics background, integration math, and a detailed guide on how to format your `.json` configuration files, please visit the **[Project Wiki]([https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang/wiki])**.
+For a comprehensive breakdown of the physics background, integration math, and a detailed guide on how to format your `.json` configuration files, please visit the **[Project Wiki](https://github.com/ASTRX470-S26/final-ASTR5470-Anthony-Wang/wiki)**.
